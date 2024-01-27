@@ -1,16 +1,20 @@
-### Hi there 👋
+# Welcome to hugo2006alm's Repository
 
-<!--
-**hugo2006alm/hugo2006alm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+Hello there! 👋 I'm Hugo, a passionate individual who loves exploring the realms of technology. My interests span across various domains, including IT, cybersecurity, game development, and web/web app development. When I'm not immersed in the digital world, you can often find me with a guitar in hand, strumming to the beats of my favorite rock tunes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎸 Music and Me
+
+Rock music is my heartbeat, and I draw inspiration from legendary bands like Radiohead, Red Hot Chili Peppers, Nirvana, Ornatos Violeta, and Pink Floyd. Whether it's the soulful melodies or the raw energy, music has always been a significant part of my life. I also have a band, Maniacs on Black Sugar (MOBS For short), being the rhythm guitarist in it. If you haven't heard us yet, check out our song "Goodbye Angels" on YouTube.
+> [🎶 Maniacs On Black Sugar (MOBS) - Goodbye Angels](https://www.youtube.com/watch?v=m69PRDpiSCc)
+
+## 🚀 What You'll Find Here
+
+This GitHub repository is a collection of my personal and school projects, reflecting my journey in the tech landscape. From cybersecurity experiments to game development adventures, and web/web app projects, this space serves as a showcase of my skills and the evolution of my knowledge.
+
+## 📚 Education
+
+I'm currently a student, and you might find some of my school projects here as well. Feel free to explore and provide feedback.
+
+Thanks for stopping by! 🚀✨
