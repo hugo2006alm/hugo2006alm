@@ -6,8 +6,8 @@ Hello there! 👋 I'm Hugo, a passionate individual who loves exploring the real
 
 ## 🎸 Music and Me
 
-Rock music is my heartbeat, and I draw inspiration from legendary bands like Radiohead, Red Hot Chili Peppers, Nirvana, Ornatos Violeta, and Pink Floyd. Whether it's the soulful melodies or the raw energy, music has always been a significant part of my life. I also have a band, Maniacs on Black Sugar (MOBS For short), being the rhythm guitarist in it. If you haven't heard us yet, check out our song "Goodbye Angels" on YouTube.
-> [🎶 Maniacs On Black Sugar (MOBS) - Goodbye Angels](https://www.youtube.com/watch?v=m69PRDpiSCc)
+Rock music is my heartbeat, and I draw inspiration from legendary bands like Radiohead, Red Hot Chili Peppers, Nirvana, Ornatos Violeta, and Pink Floyd. Whether it's the soulful melodies or the raw energy, music has always been a significant part of my life. I also have a band, Maniacs on Black Sugar (MOBS For short), being the rhythm guitarist in it. If you haven't heard us yet, check out our song "Stay The Night" on YouTube.
+> [🎶 Maniacs On Black Sugar (MOBS) - Stay The Night](https://youtu.be/H3XWP4aFH1c?si=cE7ZJA3_Uq49eIjC)
 
 ## 🚀 What You'll Find Here
 
