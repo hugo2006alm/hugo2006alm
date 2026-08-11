@@ -144,7 +144,27 @@ Music is a big part of my life.
 I'm the **rhythm guitarist for Maniacs on Black Sugar (MOBS)**, with rock and
 alternative music being a major influence outside of technology.
 
-🎶 **[Listen to MOBS — "Stay The Night"](https://youtu.be/H3XWP4aFH1c)**
+<table>
+  <tr>
+    <td>
+      <a href="https://open.spotify.com/intl-pt/album/02p50dIYbASApSBsOlhxlD?si=yjhiimkDQh6c4J49pVgWxA">
+        <img
+          src="https://i.scdn.co/image/ab67616d0000e1a39f5c37d2a9a0d7ae088e3635"
+          width="90"
+          alt="Black Sugar album cover"
+        />
+      </a>
+    </td>
+    <td>
+      <strong>Black Sugar</strong><br>
+      Maniacs On Black Sugar<br>
+      <sub>Album · 2025</sub><br><br>
+      <a href="https://open.spotify.com/intl-pt/album/02p50dIYbASApSBsOlhxlD?si=yjhiimkDQh6c4J49pVgWxA">
+        <img src="https://img.shields.io/badge/Listen%20to%20MOBS-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 Some of my favourite artists include **Radiohead, Red Hot Chili Peppers,
 Linkin Park, Smashing Pumpkins, Deftones and many more**.
