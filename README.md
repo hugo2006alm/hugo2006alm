@@ -70,6 +70,21 @@ improvement of internal and student-facing projects.
 
 ## 🚀 Featured Work
 
+### 🎓 [ClassSync](https://github.com/hugo2006alm/classsync)
+
+A local-first **Flutter university manager and unattended lecture pipeline** for
+Windows and Android. ClassSync turns completed Fireflies transcripts into
+structured Notion study notes with Gemini, while keeping transcript content and
+service credentials off the relay.
+
+It also brings optional ISEP Portal and Moodle academic data into the same
+offline-first app, backed by a minimal Cloudflare Worker + D1 relay.
+
+🌐 [Website & documentation](https://classsync.hugoalmeida.tech/) ·
+📦 [Releases](https://github.com/hugo2006alm/classsync/releases)
+
+---
+
 ### 📚 [AntiRecurso](https://github.com/Nucleo-Estudantes-Informatica-ISEP/antirecurso)
 
 An exam-preparation platform developed by **NEI-ISEP**, providing students
